@@ -233,7 +233,7 @@ section .right .right-r a.btn {
 }
 
 .pro-advice .box-container .box {
-    flex: 1 1 30rem;
+    flex: 1 1 40rem;
     /* border: .1px solid var(--p); */
     padding: 2rem;
     background: #eee;
