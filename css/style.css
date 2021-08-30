@@ -229,7 +229,7 @@ section .right .right-r a.btn {
     display: flex;
     flex-wrap: wrap;
     align-items: center;
-    gap: 2.5rem;
+    gap:4rem;
 }
 
 .pro-advice .box-container .box {
