@@ -988,6 +988,15 @@ section .right .right-r a.btn {
 
 
 /*  */
+@media(max-width:475px) {
+    .sea-spe .box-container .box {
+        flex: 1 1 45rem;
+        /* border: .1px solid var(--p); */
+        box-shadow: 0 1rem 2rem rgba(0, 0, 0, .2);
+        padding: 2rem;
+        text-align: center;
+    }
+}
 
 @media(max-width:450px) {
     .top-div .left .left-l span {
