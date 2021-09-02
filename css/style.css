@@ -996,6 +996,10 @@ section .right .right-r a.btn {
         padding: 2rem;
         text-align: center;
     }
+    .sea-spe .box-container{
+        gap:2.5rem;
+    }
+    
 }
 
 @media(max-width:450px) {
